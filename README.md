@@ -1,112 +1,141 @@
-# 👋 Hi, I'm Kavyakrishna!
+# 👋 Hey there, I'm Kavya Krishna!
 
-### 🎓 MCA Student | Aspiring Data Scientist & Machine Learning Enthusiast
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Mathematics+Graduate+%7C+MCA+Student;Aspiring+Data+Scientist+%26+ML+Enthusiast;Passionate+About+Web+Development;Building+Ideas+Into+Reality!" alt="Animated introduction" />
+</p>
 
-\<p align="center">
-&#x20; \<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Exploring+Data+Science+%26+Machine+Learning;Building+Projects+and+Learning+Every+Day](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=22\&pause=1000\&color=00D9FF\&center=true\&vCenter=true\&width=650\&lines=Welcome+to+my+GitHub+Profile!;Exploring+Data+Science+%26+Machine+Learning;Building+Projects+and+Learning+Every+Day)" alt="Typing introduction" />
-\</p>
-
----
-
-## 🚀 About Me
-
-- 🎓 Pursuing **Master of Computer Applications (MCA)**.
-- 🌱 Learning and exploring **Data Science, Machine Learning, and Artificial Intelligence**.
-- 💻 Interested in programming, web development, and solving real-world problems.
-- 🎯 My goal is to develop intelligent, data-driven applications and grow as a technology professional.
-- 📍 Location: Malappuram
-- 📫 Contact: kavyakrishna707@gmail.com
+<p align="center">
+  <a href="https://github.com/kavyakrishna707">
+    <img src="https://img.shields.io/badge/GitHub-kavyakrishna707-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="mailto:kavyakrishna707@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <img src="https://img.shields.io/badge/Location-Malappuram%2C_India-00B894?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 💫 About Me
+
+🎓 I'm a **Mathematics graduate currently pursuing my Master of Computer Applications (MCA)**, exploring the exciting world of technology and software development.
+
+I enjoy combining mathematical thinking with programming to solve problems, build useful applications, and continuously learn new technologies.
+
+- 🌐 **Web Development:** Interested in creating interactive, responsive, and user-friendly websites.
+- 📊 **Data Science:** Exploring data analysis, visualization, and extracting meaningful insights from data.
+- 🤖 **Machine Learning:** Learning how intelligent systems work and how models can learn from data.
+- 🧮 **Mathematics:** Applying analytical and logical thinking to programming and problem-solving.
+- 🚀 **Currently building:** MathSphere, an interactive mathematical workbench.
+- 🎯 **My goal:** Grow as a developer and build practical projects that combine web technologies, mathematics, and AI.
+
+---
+
+## 🛠️ Technologies & Tools
 
 ### 💻 Programming Languages
 
-\<p>
-&#x20; \<img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)" alt="Python" />
-&#x20; \<img src="[https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)" alt="C" />
-&#x20; \<img src="[https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)" alt="JavaScript" />
-\</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,js" alt="Python, C, JavaScript"/>
+</p>
 
 ### 🌐 Web Development
 
-\<p>
-&#x20; \<img src="[https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)" alt="HTML5" />
-&#x20; \<img src="[https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)" alt="CSS3" />
-\</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css" alt="HTML and CSS"/>
+</p>
 
-### 🗄️ Database & Developer Tools
+### 🗄️ Database & Development Tools
 
-\<p>
-&#x20; \<img src="[https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white)" alt="SQL" />
-&#x20; \<img src="[https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)" alt="Git" />
-&#x20; \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" alt="GitHub" />
-&#x20; \<img src="[https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)" alt="VS Code" />
-\</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" alt="MySQL, Git, GitHub and VS Code"/>
+</p>
 
 ---
 
-## 🌟 Featured Project
+## 🚀 Featured Project
 
 ### 📐 MathSphere — Interactive Mathematical Workbench
 
-An educational web project designed to make mathematical problem-solving more interactive and accessible.
+<p>
+  <a href="https://github.com/kavyakrishna707/MathSphere">
+    <img src="https://img.shields.io/badge/Explore-MathSphere-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore MathSphere"/>
+  </a>
+</p>
 
-**Highlights**
+MathSphere is an educational web application designed to make mathematical problem-solving interactive, accessible, and easier to explore.
 
-- 🧮 Mathematical calculations and scientific evaluation.
-- 🔢 Matrix operations and transformations.
-- 📈 Polynomial graph visualization.
-- ✏️ Equation solving and step-by-step learning.
-- 📚 Educational resources and tutorials.
+**✨ Key Features**
 
-🔗 **[Explore MathSphere on GitHub](https://github.com/kavyakrishna707/MathSphere)**
+- 🧮 Scientific calculations and mathematical evaluation
+- 🔢 Matrix operations and transformations
+- 📈 Polynomial graph visualization
+- ✏️ Equation solving and step-by-step learning
+- 📚 Tutorials and educational resources
 
----
-
-## 📊 GitHub Statistics
-
-\<p align="center">
-&#x20; \<img src="[https://github-readme-stats.vercel.app/api?username=kavyakrishna707&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=kavyakrishna707\&show_icons=true\&theme=tokyonight\&hide_border=true)" height="165" alt="GitHub statistics" />
-&#x20; \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=kavyakrishna707&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=kavyakrishna707\&layout=compact\&theme=tokyonight\&hide_border=true)" height="165" alt="Most used languages" />
-\</p>
-
-\<p align="center">
-&#x20; \<img src="[https://streak-stats.demolab.com?user=kavyakrishna707&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=kavyakrishna707\&theme=tokyonight\&hide_border=true)" alt="GitHub contribution streak" />
-\</p>
+🔗 **Repository:** [github.com/kavyakrishna707/MathSphere](https://github.com/kavyakrishna707/MathSphere)
 
 ---
 
-## 🎯 Current Learning Goals
+## 📊 My GitHub Dashboard
 
-- [ ] Strengthen Python programming skills.
-- [ ] Learn data analysis with NumPy and Pandas.
-- [ ] Explore data visualization with Matplotlib.
-- [ ] Understand machine learning fundamentals.
-- [ ] Build practical data science projects.
-- [ ] Learn how to train and evaluate machine learning models.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kavyakrishna707&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavyakrishna707&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Most used programming languages"/>
+</p>
 
----
-
-## 🤝 Let's Connect
-
-\<p>
-&#x20; \<a href="[https://github.com/kavyakrishna707](https://github.com/kavyakrishna707)">
-&#x20;   \<img src="[https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge\&logo=github)" alt="GitHub profile" />
-&#x20; \</a>
-&#x20; \<a href="mailto\:kavyakrishna707@gmail.com">
-&#x20;   \<img src="[https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)" alt="Email me" />
-&#x20; \</a>
-&#x20; \<!--www.linkedin.com/in/kavyakrishna-58b3b83b6-->
-\</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kavyakrishna707&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+</p>
 
 ---
 
-\<p align="center">
-&#x20; \<i>"Every line of code is a step toward something greater."\</i>
-\</p>
+## 🌱 What I'm Learning
 
-\<p align="center">
-&#x20; ⭐ Thank you for visiting my profile! Feel free to explore my repositories and follow my learning journey.
-\</p>
+- [ ] Strengthening Python programming and problem-solving skills
+- [ ] Learning NumPy and Pandas for data analysis
+- [ ] Exploring data visualization using Matplotlib
+- [ ] Understanding machine learning algorithms and model evaluation
+- [ ] Improving HTML, CSS, and JavaScript skills
+- [ ] Building more web development and data science projects
+
+---
+
+## 🎯 My Interests
+
+<p>
+  <img src="https://img.shields.io/badge/Web_Development-FF6F61?style=flat-square&logo=html5&logoColor=white" alt="Web Development"/>
+  <img src="https://img.shields.io/badge/Data_Science-3776AB?style=flat-square&logo=python&logoColor=white" alt="Data Science"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-8E44AD?style=flat-square&logo=tensorflow&logoColor=white" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-00B894?style=flat-square&logo=openai&logoColor=white" alt="Artificial Intelligence"/>
+  <img src="https://img.shields.io/badge/Mathematics-007ACC?style=flat-square&logo=wolframmathematica&logoColor=white" alt="Mathematics"/>
+</p>
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always interested in learning, exploring new ideas, and connecting with people who enjoy technology and innovation.
+
+<p>
+  <a href="https://github.com/kavyakrishna707">
+    <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="mailto:kavyakrishna707@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:6C63FF&height=100&section=footer" alt="Decorative footer"/>
+</p>
+
+<p align="center">
+  <i>"From mathematical thinking to meaningful code — learning, building, and growing every day."</i>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile! Feel free to explore my projects.
+</p>
