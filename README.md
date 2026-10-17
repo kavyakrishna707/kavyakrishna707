@@ -6,28 +6,31 @@
 
 <p align="center">
   <a href="https://github.com/kavyakrishna707">
-    <img src="https://img.shields.io/badge/GitHub-kavyakrishna707-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:kavyakrishna707@gmail.com">
+  <a href="https://www.linkedin.com/in/kavyakrishna-58b3b83b6/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:kavyakrishna9658@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <img src="https://img.shields.io/badge/Location-Malappuram%2C_India-00B894?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
 </p>
 
 ---
 
 ## 💫 About Me
 
-🎓 I'm a **Mathematics graduate currently pursuing my Master of Computer Applications (MCA)**, exploring the exciting world of technology and software development.
+🎓 I'm a **Mathematics graduate currently pursuing my Master of Computer Applications (MCA)**, passionate about exploring the intersection of mathematics and technology.
 
-I enjoy combining mathematical thinking with programming to solve problems, build useful applications, and continuously learn new technologies.
+I enjoy applying logical and analytical thinking to programming, creating websites, and discovering how data and intelligent systems can solve real-world problems.
 
-- 🌐 **Web Development:** Interested in creating interactive, responsive, and user-friendly websites.
-- 📊 **Data Science:** Exploring data analysis, visualization, and extracting meaningful insights from data.
-- 🤖 **Machine Learning:** Learning how intelligent systems work and how models can learn from data.
-- 🧮 **Mathematics:** Applying analytical and logical thinking to programming and problem-solving.
-- 🚀 **Currently building:** MathSphere, an interactive mathematical workbench.
-- 🎯 **My goal:** Grow as a developer and build practical projects that combine web technologies, mathematics, and AI.
+- 🎓 **Education:** MCA Student | Mathematics Graduate
+- 🌐 **Web Development:** Interested in building interactive and user-friendly websites
+- 📊 **Data Science:** Exploring data analysis and visualization
+- 🤖 **Machine Learning:** Learning algorithms and intelligent systems
+- 🧮 **Featured Project:** MathSphere
+- 📍 **Location:** Malappuram, Kerala, India
+- 📫 **Email:** [kavyakrishna9658@gmail.com](mailto:kavyakrishna9658@gmail.com)
 
 ---
 
@@ -36,7 +39,7 @@ I enjoy combining mathematical thinking with programming to solve problems, buil
 ### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,js" alt="Python, C, JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=python,c,js" alt="Python, C, and JavaScript"/>
 </p>
 
 ### 🌐 Web Development
@@ -45,10 +48,10 @@ I enjoy combining mathematical thinking with programming to solve problems, buil
   <img src="https://skillicons.dev/icons?i=html,css" alt="HTML and CSS"/>
 </p>
 
-### 🗄️ Database & Development Tools
+### 🗄️ Database & Developer Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" alt="MySQL, Git, GitHub and VS Code"/>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" alt="MySQL, Git, GitHub, and VS Code"/>
 </p>
 
 ---
@@ -57,13 +60,7 @@ I enjoy combining mathematical thinking with programming to solve problems, buil
 
 ### 📐 MathSphere — Interactive Mathematical Workbench
 
-<p>
-  <a href="https://github.com/kavyakrishna707/MathSphere">
-    <img src="https://img.shields.io/badge/Explore-MathSphere-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore MathSphere"/>
-  </a>
-</p>
-
-MathSphere is an educational web application designed to make mathematical problem-solving interactive, accessible, and easier to explore.
+MathSphere is an educational web application designed to make mathematical problem-solving interactive, accessible, and engaging.
 
 **✨ Key Features**
 
@@ -71,17 +68,21 @@ MathSphere is an educational web application designed to make mathematical probl
 - 🔢 Matrix operations and transformations
 - 📈 Polynomial graph visualization
 - ✏️ Equation solving and step-by-step learning
-- 📚 Tutorials and educational resources
+- 📚 Educational resources and tutorials
 
-🔗 **Repository:** [github.com/kavyakrishna707/MathSphere](https://github.com/kavyakrishna707/MathSphere)
+<p>
+  <a href="https://github.com/kavyakrishna707/MathSphere">
+    <img src="https://img.shields.io/badge/Explore_MathSphere-00D9FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore MathSphere"/>
+  </a>
+</p>
 
 ---
 
-## 📊 My GitHub Dashboard
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kavyakrishna707&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavyakrishna707&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Most used programming languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kavyakrishna707&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavyakrishna707&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used programming languages"/>
 </p>
 
 <p align="center">
@@ -90,14 +91,14 @@ MathSphere is an educational web application designed to make mathematical probl
 
 ---
 
-## 🌱 What I'm Learning
+## 🌱 Currently Learning
 
-- [ ] Strengthening Python programming and problem-solving skills
-- [ ] Learning NumPy and Pandas for data analysis
-- [ ] Exploring data visualization using Matplotlib
-- [ ] Understanding machine learning algorithms and model evaluation
-- [ ] Improving HTML, CSS, and JavaScript skills
-- [ ] Building more web development and data science projects
+- 🐍 Strengthening Python programming and problem-solving skills
+- 📊 Learning NumPy and Pandas for data analysis
+- 📈 Exploring data visualization using Matplotlib
+- 🤖 Understanding machine learning algorithms and model evaluation
+- 🌐 Improving HTML, CSS, and JavaScript skills
+- 💡 Building practical web development and data science projects
 
 ---
 
@@ -115,27 +116,30 @@ MathSphere is an educational web application designed to make mathematical probl
 
 ## 🤝 Let's Connect!
 
-I'm always interested in learning, exploring new ideas, and connecting with people who enjoy technology and innovation.
+I'm always excited to learn new things, explore creative ideas, and connect with people who share an interest in technology and innovation.
 
-<p>
+<p align="center">
   <a href="https://github.com/kavyakrishna707">
-    <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
   </a>
-  <a href="mailto:kavyakrishna707@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="https://www.linkedin.com/in/kavyakrishna-58b3b83b6/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
+  </a>
+  <a href="mailto:kavyakrishna9658@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:6C63FF&height=100&section=footer" alt="Decorative footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:6C63FF&height=120&section=footer" alt="Decorative footer"/>
 </p>
 
 <p align="center">
-  <i>"From mathematical thinking to meaningful code — learning, building, and growing every day."</i>
+  <i>"Think mathematically. Build creatively. Keep learning."</i>
 </p>
 
 <p align="center">
-  ⭐ Thanks for visiting my profile! Feel free to explore my projects.
+  ⭐ Thanks for visiting my profile! Feel free to explore my projects and follow my learning journey.
 </p>
