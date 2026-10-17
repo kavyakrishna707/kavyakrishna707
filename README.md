@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Kavyakrishna!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=MCA+ Student+%7C+Mathematics +Graduate;Aspiring+Data+Scientist+%26+ML+Enthusiast;Passionate+About+Web+Development;Building+Ideas+Into+Reality!" alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=MCA+Student+%7C+Mathematics+Graduate;Aspiring+Data+Scientist+%26+ML+Enthusiast;Passionate+About+Web+Development;Building+Ideas+Into+Reality!" alt="Animated introduction" />
 </p>
 
 <p align="center">
