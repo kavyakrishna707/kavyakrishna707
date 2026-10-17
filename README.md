@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Kavyakrishna!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=MCA+Student+%7C+Mathematics+Graduate;Aspiring+Data+Scientist+%26+ML+Enthusiast;Passionate+About+Web+Development;Building+Ideas+Into+Reality!" alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=MCA+Student+%7C+Mathematics+Graduate;Interested+in+Data+Science%2C+AI+%26+Machine+Learning;Passionate+About+Web+Development;Building+Ideas+Into+Reality!" alt="Animated introduction" />
 </p>
 
 <p align="center">
@@ -26,8 +26,8 @@ I enjoy applying logical and analytical thinking to programming, creating websit
 
 - 🎓 **Education:** MCA Student | Mathematics Graduate
 - 🌐 **Web Development:** Interested in building interactive and user-friendly websites
-- 📊 **Data Science:** Exploring data analysis and visualization
-- 🤖 **Machine Learning:** Learning algorithms and intelligent systems
+- 📊 **Data Science:** Interested in data analysis and visualization
+- 🤖 **AI & Machine Learning:** Exploring intelligent systems and machine learning algorithms
 - 🧮 **Featured Project:** MathSphere
 - 📍 **Location:** Malappuram, Kerala, India
 - 📫 **Email:** [kavyakrishna9658@gmail.com](mailto:kavyakrishna9658@gmail.com)
